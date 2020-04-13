@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="laravel_database_generator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/laravel_database_generator_jar</output-path>
+    <root id="archive" name="laravel_database_generator.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/res/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="laravel_database_generator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../compet_core/out/artifacts/compet_core_jar/compet_core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

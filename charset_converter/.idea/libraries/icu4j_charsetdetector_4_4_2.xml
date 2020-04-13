@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="icu4j-charsetdetector-4_4_2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libs/icu4j-charsetdetector-4_4_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

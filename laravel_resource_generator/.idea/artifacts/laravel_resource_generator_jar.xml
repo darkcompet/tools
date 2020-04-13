@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="laravel_resource_generator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/laravel_resource_generator_jar</output-path>
+    <root id="archive" name="laravel_resource_generator.jar">
+      <element id="module-output" name="laravel_resource_generator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../compet_core/out/artifacts/compet_core_jar/compet_core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
