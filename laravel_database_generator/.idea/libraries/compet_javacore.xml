@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="compet_javacore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../libraries/libs_java/libs/compet/compet_javacore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

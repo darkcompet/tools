@@ -6,7 +6,7 @@
         <element id="file-copy" path="$PROJECT_DIR$/src/main/res/META-INF/MANIFEST.MF" />
       </element>
       <element id="module-output" name="laravel_database_generator" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../../compet_core/out/artifacts/compet_core_jar/compet_core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../libraries/libs_java/libs/compet/compet_javacore.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

@@ -6,27 +6,55 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c93b73ee-5c26-489b-bc0a-bf170866f633" name="Default Changelist" comment="" />
+    <list default="true" id="c93b73ee-5c26-489b-bc0a-bf170866f633" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/compet_javacore.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/laravel_database_generator_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/laravel_database_generator_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/compet_core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel_database_generator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_database_generator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/laravel_database_generator_jar/laravel_database_generator.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/laravel_database_generator/GenerateDatabaseModels.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/laravel_database_generator/GenerateDatabaseModels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GenerateDatabaseModels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenerateDatabaseModels.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZcrM4SkDhKpZz69hi1eMkrdMFJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../compet_core/out/artifacts/compet_core_jar/compet_core.jar!/" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last.edited.regexp" value="//\\/\/\/\/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/res" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2601103" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Compet\workspace\darkcompet\tools\laravel_database_generator" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Compet\workspace\libraries\libs_java\tools\laravel_database_generator\src" />
     </key>
@@ -59,33 +87,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="450" y="219" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585236031086">
+    <state x="450" y="219" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587836123018">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="450" y="219" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.860@0.0.1440.860" timestamp="1585236031086" />
-    <state x="426" y="174" key="FileChooserDialogImpl" timestamp="1585149760213">
+    <state x="450" y="219" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.860@0.0.1440.860" timestamp="1587836123018" />
+    <state x="426" y="174" key="FileChooserDialogImpl" timestamp="1587836129627">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="426" y="174" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1585149760213" />
-    <state width="1397" height="215" key="GridCell.Tab.0.bottom" timestamp="1585222196376">
+    <state x="426" y="174" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1587836129627" />
+    <state width="1397" height="215" key="GridCell.Tab.0.bottom" timestamp="1587838345394">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="215" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1585222196376" />
-    <state width="1397" height="215" key="GridCell.Tab.0.center" timestamp="1585222196376">
+    <state width="1397" height="215" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1587838345394" />
+    <state width="1397" height="215" key="GridCell.Tab.0.center" timestamp="1587838345394">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="215" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1585222196376" />
-    <state width="1397" height="215" key="GridCell.Tab.0.left" timestamp="1585222196376">
+    <state width="1397" height="215" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1587838345394" />
+    <state width="1397" height="215" key="GridCell.Tab.0.left" timestamp="1587838345394">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="215" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1585222196376" />
-    <state width="1397" height="215" key="GridCell.Tab.0.right" timestamp="1585222196376">
+    <state width="1397" height="215" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1587838345394" />
+    <state width="1397" height="215" key="GridCell.Tab.0.right" timestamp="1587838345394">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="215" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1585222196376" />
-    <state x="200" y="7" key="SettingsEditor" timestamp="1585236069767">
+    <state width="1397" height="215" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1587838345394" />
+    <state x="200" y="7" key="SettingsEditor" timestamp="1587836132853">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="200" y="7" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1585236069767" />
+    <state x="200" y="7" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1587836132853" />
   </component>
 </project>
